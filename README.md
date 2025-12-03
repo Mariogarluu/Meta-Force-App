@@ -25,14 +25,14 @@ Meta-Force-App/
 ```
 
 ### Frontend
-- **Repositorio**: [Meta-Force-front](https://github.com/Mariogarluu/Meta-Force-front)
+- **Repositorio**: [Meta_Force_front](https://github.com/Mariogarluu/Meta_Force_front)
 - **Framework**: Angular 19.2
 - **Tecnología**: TypeScript
 - **Estilos**: Tailwind CSS
 - **Puerto por defecto**: 4200
 
 ### Backend
-- **Repositorio**: [Meta-Force-back](https://github.com/Mariogarluu/Meta-Force-back)
+- **Repositorio**: [Meta_Force_back](https://github.com/Mariogarluu/Meta_Force_back)
 - **Framework**: Express 5.1
 - **Runtime**: Node.js
 - **Base de datos**: PostgreSQL
