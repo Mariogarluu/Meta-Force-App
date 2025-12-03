@@ -1,6 +1,18 @@
 # Meta Force App 💪
 
+![Angular](https://img.shields.io/badge/Angular-19.2-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-5.1-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14+-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-6.18-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-3.4-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-9.0-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 Aplicación completa de gestión de gimnasios con control de acceso mediante códigos QR, gestión de usuarios, centros, máquinas y clases.
+
+> 🎓 **Proyecto Intermodular** - Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 ## 📖 Descripción
 
@@ -436,6 +448,10 @@ git submodule update
 ## 👨‍💻 Autores
 
 **Meta Force Team**
+
+- [@Mariogarluu](https://github.com/Mariogarluu) - Mario García
+- [@sbuegonz00](https://github.com/sbuegonz00) - Colaborador
+- [@sgarrui1201](https://github.com/sgarrui1201) - Colaborador
 
 ## 📄 Licencia
 
